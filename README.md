@@ -1,6 +1,6 @@
 <h1 align="center">Greetings 👋, I'm Steven Harris</h1>
 
-- 📫 How to reach me **stevenharrisdev@gmail.com**
+- 📫 How to reach me **steharris@jackhenry.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
