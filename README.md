@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm a user-centric full-stack software engineer with a wealth of experience in software design and development. I have a knack for recognizing patterns and simplifying complex concepts. My expertise covers UI/UX and API development, and I excel in crafting feature-rich, maintainable, and scalable solutions. Boasting over seven years of experience in .NET and nine years in web development, I bring a wealth of valuable expertise to the table.
+I'm a user-centric full-stack software engineer with over ten years of experience in software design and development. I have a knack for recognizing patterns and simplifying complex concepts. My expertise covers UI/UX and API development, and I excel in crafting feature-rich, maintainable, and scalable solutions. 
 
 - 📫 How to reach me **steharris@jackhenry.com**
 
