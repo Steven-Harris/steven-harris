@@ -2,11 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/steven-harris/steven-harris/main/assets/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/steven-harris/count.svg" />
-</p>
-
 ## 📖 About me
 
 I'm a user-centric full-stack software engineer with over ten years of experience in software design and development. I have a knack for recognizing patterns and simplifying complex concepts. My expertise covers UI/UX and API development, and I excel in crafting feature-rich, maintainable, and scalable solutions. 
