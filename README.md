@@ -15,18 +15,9 @@ I'm a user-centric full-stack software engineer with over ten years of experienc
 have a knack for recognizing patterns and simplifying complex concepts. My expertise covers UI/UX and API development,
 and I excel in crafting feature-rich, maintainable, and scalable solutions.
 
-- 📫 How to reach me **steharris@jackhenry.com**
-
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-    <li style="display: inline-block; margin-right: 0.25rem;">
-        <a href="https://www.buymeacoffee.com/GitHelm">
-            <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
-        </a>
-    </li>
-</ul>
+<a href="https://www.buymeacoffee.com/GitHelm">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
+</a>
 
 ### Skills
 <p align="left">
@@ -240,34 +231,13 @@ and I excel in crafting feature-rich, maintainable, and scalable solutions.
     </a>
 </p>
 
-### Badges
-
-#### My GitHub Stats
+### My GitHub Stats
 
 <img style="border: none;"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steven-harris&theme=github_dark"
     alt="Steven's GitHub Stats" />
 
 <a href="http://www.github.com/steven-harris">
-    <img src="https://github-readme-stats.vercel.app/api?username=steven-harris&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
-        alt="steven-harris's GitHub stats" />
-</a>
-
-<a href="http://www.github.com/steven-harris">
     <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=steven-harris&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
-
-<a href="https://github.com/steven-harris" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steven-harris&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
-        alt="Top Languages" />
-</a>
-
-#### Top Repositories
-
-<div width="100%" align="center">
-    <a href="https://github.com/steven-harris/GitHelm" align="left">
-        <img align="left" width="45%"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=steven-harris&repo=GitHelm&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
-</div>
