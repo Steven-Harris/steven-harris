@@ -15,10 +15,6 @@ I'm a user-centric full-stack software engineer with over ten years of experienc
 have a knack for recognizing patterns and simplifying complex concepts. My expertise covers UI/UX and API development,
 and I excel in crafting feature-rich, maintainable, and scalable solutions.
 
-<a href="https://www.buymeacoffee.com/GitHelm">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
-</a>
-
 ### Skills
 <p align="left">
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
